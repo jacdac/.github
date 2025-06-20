@@ -37,13 +37,14 @@ to the bus.  The following repos define the web stack
 ### Jacdac firmware
 
 Jacdac firmware is organized into several repos:
-- [jacdac/jacdac-c](https://github.com/jacdac/jacdac-c): 
+- [jacdac/jacdac-c](https://github.com/jacdac/jacdac-c): MCU-independent implementation of Jacdac protocol and device drivers
+- [jacdac/jacdac-stm32x0](https://github.com/jacdac/jacdac-stm32x0): Jacdac host for STM32 MCUs
+- [jacdac/jacdac-module-template](https://github.com/jacdac/jacdac-module-template): building firmware for a Jacdac module
 
 
 ### MakeCode Client
 
 - [jacdac/pxt-jacdac](https://github.com/jacdac/pxt-jacdac): 
-
 
 ## For hardware designers
 
