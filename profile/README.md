@@ -17,8 +17,7 @@ Please refer to the following for Jacdac issues and discussions
 
 ### Device and service catalogs
 
-The Jacdac [device](https://jacdac.github.io/jacdac-docs/devices/) and [service]((https://jacdac.github.io/jacdac-docs/services/) )
-catalogs are the foundation of the Jacdac stack: 
+The Jacdac [device](https://jacdac.github.io/jacdac-docs/devices/) and [service](https://jacdac.github.io/jacdac-docs/services/) catalogs are the foundation of the Jacdac stack: 
 - [jacdac/jacdac](https://github.com/jacdac/jacdac): this repo contains the source of the catalogs, from which a variety
 of other artifacts are generated, including the above pages 
 
