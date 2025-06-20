@@ -15,14 +15,14 @@ Please refer to the following for Jacdac issues and discussions
 
 ## For developers
 
-### Jacdac device and service catalogs
+### Device and service catalogs
 
 The Jacdac [device](https://jacdac.github.io/jacdac-docs/devices/) and [service]((https://jacdac.github.io/jacdac-docs/services/) )
 catalogs are the foundation of the Jacdac stack: 
 - [jacdac/jacdac](https://github.com/jacdac/jacdac): this repo contains the source of the catalogs, from which a variety
 of other artifacts are generated, including the above pages 
 
-### Jacdac web stack
+### Web stack
 
 Jacdac bridges the world of the web browser and hardware via
 the Jacdac bus, which you can experience via the [Jacdac dashboard](https://jacdac.github.io/jacdac-docs/dashboard). 
@@ -36,11 +36,11 @@ The following repos define the web stack
 - [jacdac/react-jacdac](https://github.com/jacdac/react-jacdac): React hooks for Jacdac ([docs](https://jacdac.github.io/react-jacdac/))
 - [jacdac/gatsby-remark-makecode](https://github.com/jacdac/gatsby-remark-makecode): renders MakeCode code snippets into images.
 
-### Jacdac CLI
+### CLI
 
 - [jacdac/jacdac-cli](https://github.com/jacdac/jacdac-cli): command-line interface (NPM)
 
-### Jacdac firmware
+### Firmware
 
 Jacdac firmware is organized into several repos:
 - [jacdac/jacdac-c](https://github.com/jacdac/jacdac-c): MCU-independent implementation of Jacdac protocol and device drivers
