@@ -1,6 +1,7 @@
 ## Welcome to Jacdac!
 
-Jacdac is an open-source software and hardware platform that brings a plug-and-play experience to the world of micro-controllers, starting with [the BBC micro:bit](https://microbit.org).
+Jacdac is an open-source software and hardware platform that brings a plug-and-play experience to the world of micro-controllers, starting with [the BBC micro:bit](https://microbit.org).  
+
 
 ## Getting started
 
@@ -12,6 +13,11 @@ menu (upper left) to get an overview.
 Please refer to the following for Jacdac issues and discussions 
 - https://github.com/jacdac/jacdac/issues
 - https://github.com/jacdac/jacdac/discussions
+
+## History
+
+Jacdac started as an open source [Microsoft Research project](https://www.microsoft.com/en-us/research/project/jacdac-connect-and-code-electronics/) in 2020.
+As of 2025, the project's home is [Lancaster University](https://lancaster.ac.uk/).
 
 ## For developers
 
@@ -52,4 +58,4 @@ Jacdac firmware is organized into several repos:
 
 ## For hardware designers
 
-- [jacdac/jacdac-ddk](https://github.com/jacdac/jacdac-ddk): 
+- [jacdac/jacdac-ddk](https://github.com/jacdac/jacdac-ddk): technical drawings, part libraries and device designs (schematics and layout files). 
