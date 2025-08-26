@@ -36,26 +36,27 @@ hardware; device simulators allow virtual devices to be added
 to the bus.  
 
 The following repos define the web stack
-- [jacdac/jacdac-docs](https://github.com/jacdac/jacdac-docs): Jacdac home page and web-based tools, built on
-- [jacdac/jacdac-ts](https://github.com/jacdac/jacdac-ts): dependency-free Jacdac Object Model ([JDOM docs](https://jacdac.github.io/jacdac-ts/))
-- [jacdac/react-jacdac](https://github.com/jacdac/react-jacdac): React hooks for Jacdac ([docs](https://jacdac.github.io/react-jacdac/))
-- [jacdac/gatsby-remark-makecode](https://github.com/jacdac/gatsby-remark-makecode): renders MakeCode code snippets into images.
+- [jacdac-docs](https://github.com/jacdac/jacdac-docs): Jacdac home page and web-based tools, built on
+- [jacdac-ts](https://github.com/jacdac/jacdac-ts): dependency-free Jacdac Object Model ([JDOM docs](https://jacdac.github.io/jacdac-ts/))
+- [react-jacdac](https://github.com/jacdac/react-jacdac): React hooks for Jacdac ([docs](https://jacdac.github.io/react-jacdac/))
+- [gatsby-remark-makecode](https://github.com/jacdac/gatsby-remark-makecode): renders MakeCode code snippets into images.
 
 ### CLI
 
-- [jacdac/jacdac-cli](https://github.com/jacdac/jacdac-cli): command-line interface (NPM)
+- [jacdac-cli](https://github.com/jacdac/jacdac-cli): command-line interface (NPM)
 
 ### Firmware
 
 Jacdac firmware is organized into several repos:
-- [jacdac/jacdac-c](https://github.com/jacdac/jacdac-c): MCU-independent implementation of Jacdac protocol and device drivers
-- [jacdac/jacdac-stm32x0](https://github.com/jacdac/jacdac-stm32x0): Jacdac host for STM32 MCUs
-- [jacdac/jacdac-module-template](https://github.com/jacdac/jacdac-module-template): building firmware for a Jacdac module
+- [jacdac-c](https://github.com/jacdac/jacdac-c): MCU-independent implementation of Jacdac protocol and device drivers
+- [jacdac-stm32x0](https://github.com/jacdac/jacdac-stm32x0): Jacdac host for STM32 MCUs
+- [jacdac-module-template](https://github.com/jacdac/jacdac-module-template): building firmware for a Jacdac module
+- [jacdac-msr-modules](https://github.com/jacdac/jacdac-msr-modules): examples of firmware for a variety of modules
 
 ### MakeCode Client
 
-- [jacdac/pxt-jacdac](https://github.com/jacdac/pxt-jacdac): MakeCode extension for Jacdac, including simulator support for device twins and simulators (via web stack)
+- [pxt-jacdac](https://github.com/jacdac/pxt-jacdac): MakeCode extension for Jacdac, including simulator support for device twins and simulators (via web stack)
 
 ## For hardware designers
 
-- [jacdac/jacdac-ddk](https://github.com/jacdac/jacdac-ddk): technical drawings, part libraries and device designs (schematics and layout files). 
+- [jacdac-ddk](https://github.com/jacdac/jacdac-ddk): technical drawings, part libraries and device designs (schematics and layout files). 
