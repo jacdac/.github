@@ -1,6 +1,6 @@
 ## Welcome to Jacdac!
 
-Jacdac is an open-source software and hardware platform that brings a plug-and-play experience to the world of micro-controllers, starting with [the BBC micro:bit](https://microbit.org).  
+Jacdac is an open-source software and hardware platform that brings a plug-and-play experience to the world of microcontrollers, starting with [the BBC micro:bit](https://microbit.org).  
 
 
 ## Getting started
